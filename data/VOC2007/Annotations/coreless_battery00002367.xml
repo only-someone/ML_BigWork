@@ -1,0 +1,44 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>coreless_battery00002367.jpg</filename>
+    <source>
+        <database>The VOC2007 Database</database>
+        <annotation>PASCAL VOC2007</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>anonymous</name>
+    </owner>
+    <size>
+        <width>2000</width>
+        <height>1040</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>core</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>782</xmin>
+            <ymin>540</ymin>
+            <xmax>896</xmax>
+            <ymax>688</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>coreless</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1070</xmin>
+            <ymin>477</ymin>
+            <xmax>1252</xmax>
+            <ymax>598</ymax>
+        </bndbox>
+    </object>
+</annotation>
